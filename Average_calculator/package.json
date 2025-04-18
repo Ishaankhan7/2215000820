@@ -1,0 +1,23 @@
+{
+  "name": "average-calculator",
+  "version": "1.0.0",
+  "description": "A Node.js server to calculate moving average of numbers from different number type APIs.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "average",
+    "api",
+    "calculator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
